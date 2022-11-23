@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
+
+body{
+    background-color: lightgrey;
+    text-transform: capitalize;
+    padding: 0;
+    background: url(background\ img.jpg) no-repeat center fixed;
+    background-size: cover;
+    margin: 0;
+    color: white;
+}
+.parent{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    margin-top:10px ;
+    padding: 30px;
+}
+h1{
+    font-size: 30px;
+    font-family:  'Inknut Antiqua', serif;
+}
+span{
+    color: yellow;
+}
+p{
+    font-size: 15px;
+    font-family:'Inknut Antiqua', serif ;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
